@@ -12,6 +12,7 @@
 		EEDAD17C1C27F7120054E3DB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EEDAD17A1C27F7120054E3DB /* Main.storyboard */; };
 		EEDAD17E1C27F7130054E3DB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EEDAD17D1C27F7130054E3DB /* Assets.xcassets */; };
 		EEDAD1811C27F7130054E3DB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EEDAD17F1C27F7130054E3DB /* LaunchScreen.storyboard */; };
+		EEE5A42F1C27F89B00A6BC58 /* 少女时代-TaeTiSeo - Twinkle.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = EEE5A42E1C27F89B00A6BC58 /* 少女时代-TaeTiSeo - Twinkle.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		EEDAD17D1C27F7130054E3DB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EEDAD1801C27F7130054E3DB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EEDAD1821C27F7130054E3DB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EEE5A42E1C27F89B00A6BC58 /* 少女时代-TaeTiSeo - Twinkle.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "少女时代-TaeTiSeo - Twinkle.mp3"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		EEDAD1751C27F7120054E3DB /* playsound */ = {
 			isa = PBXGroup;
 			children = (
+				EEE5A42E1C27F89B00A6BC58 /* 少女时代-TaeTiSeo - Twinkle.mp3 */,
 				EEDAD1761C27F7120054E3DB /* AppDelegate.swift */,
 				EEDAD1781C27F7120054E3DB /* ViewController.swift */,
 				EEDAD17A1C27F7120054E3DB /* Main.storyboard */,
@@ -122,6 +125,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EEE5A42F1C27F89B00A6BC58 /* 少女时代-TaeTiSeo - Twinkle.mp3 in Resources */,
 				EEDAD1811C27F7130054E3DB /* LaunchScreen.storyboard in Resources */,
 				EEDAD17E1C27F7130054E3DB /* Assets.xcassets in Resources */,
 				EEDAD17C1C27F7120054E3DB /* Main.storyboard in Resources */,
@@ -286,6 +290,7 @@
 				EEDAD1871C27F7130054E3DB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
